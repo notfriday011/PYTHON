@@ -1,2 +1,2 @@
 # PYTHON
-To check nnumber is armstrong number or not
+Conversion binary to decimal
